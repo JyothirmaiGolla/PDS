@@ -1,0 +1,7 @@
+1.In gender distribution the female count is greater compared to male.
+2.Among the different race/ethnicity groups, Group C makes up a larger proportion. 
+3.More than 250 students scored greater than 60 in math.
+4. Reading and writing scores are highly correlated.
+5. Students who have not completed the preparation course are greater in number.
+
+

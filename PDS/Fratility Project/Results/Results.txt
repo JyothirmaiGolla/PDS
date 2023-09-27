@@ -1,0 +1,4 @@
+The result stems from a statistical test that looked at whether there's a significant height distinction between individuals categorized as "Frailty = 'Y'" and "Frailty = 'N'".
+ The t-statistic (about 0.557) measures how much the average height differs between these two groups while considering the variations within each group. 
+The p-value (approximately 0.593) reflects the likelihood of observing such a height difference if there were no real distinction. 
+Since the p-value is greater than the significance level of 0.05, the conclusion is that there's no meaningful height difference between those with and without frailty.
