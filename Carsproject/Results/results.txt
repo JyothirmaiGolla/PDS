@@ -1,0 +1,21 @@
+Found out the missing values from each column
+Unnamed: 0              0
+Name                    0
+Location                0
+Year                    0
+Kilometers_Driven       0
+Fuel_Type               0
+Transmission            0
+Owner_Type              0
+Mileage                 2
+Engine                 36
+Power                  36
+Seats                  38
+New_Price            5032
+Price                   0
+dtype: int64
+
+
+- Replace missing values in Mileage, Engine, and Power with the median because it represents the typical value and is less influenced by outliers.
+- For the Seat column, which represents the number of seats, use the mode to replace missing values since it tells us the most frequently occurring whole number of seats.
+- Due to the high number of missing values in the Newprice column, it's advisable to drop the entire column. Filling in these missing values could introduce incorrect data and impact the analysis.
